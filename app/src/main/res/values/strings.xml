@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoTest</string>
+    <string name="monkey_test">冒烟测试</string>
+    <string name="run_test">运行</string>
+    <string name="test_report">测试报告</string>
+    <string name="dir_message">运行信息存储于AppTestReport目录</string>
+
+</resources>
